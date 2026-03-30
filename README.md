@@ -25,7 +25,7 @@ CSS
 JavaScript
 AI Prompt-Based Analysis
 
-⚙️ Installation & Setup
+⚙️ INSTALLATION AND SETUP
 git clone https://github.com/your-username/ai-security-analyst.git
 cd ai-security-analyst
 
@@ -33,6 +33,6 @@ pip install -r requirements.txt
 
 python app.py
 
-Then open your browser and go to the link it gives (ex http:\12345.00.00.)
+Then open your browser and go to the link it gives you (ex http:\12345.00.00.)
 
 
