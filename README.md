@@ -27,7 +27,7 @@ JavaScript
 AI Prompt-Based Analysis
 
 ⚙️ INSTALLATION AND SETUP
-git clone https://github.com/your-username/ai-security-analyst.git
+git clone https://github.com/sindipopshini22-commits/ai-security-analyst.git
 cd ai-security-analyst
 
 pip install -r requirements.txt
